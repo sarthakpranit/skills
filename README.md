@@ -27,6 +27,17 @@ You can stay up to date with my skills here:
 npx skills@latest add emilkowalski/skills
 ```
 
+### Claude Code
+
+This repository is also a native Claude Code plugin marketplace:
+
+```text
+/plugin marketplace add emilkowalski/skills
+/plugin install skills@emilkowalski
+```
+
+Pick a scope when installing — **Install for you** makes the skills available in every project, while **Install for all collaborators** enables them for everyone working in a repository (each teammate runs the install once too).
+
 ## Why use it?
 
 Agents don’t have great taste

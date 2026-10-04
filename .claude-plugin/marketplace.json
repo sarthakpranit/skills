@@ -1,0 +1,14 @@
+{
+  "name": "emilkowalski",
+  "description": "Design and animation skills for designers and engineers building better user interfaces.",
+  "owner": {
+    "name": "Emil Kowalski"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Design and animation skills for designers and engineers building better user interfaces."
+    }
+  ]
+}

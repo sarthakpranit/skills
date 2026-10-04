@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "skills",
+  "displayName": "Emil's Skills",
+  "version": "1.0.0",
+  "description": "Design and animation skills for designers and engineers building better user interfaces.",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski/"
+  },
+  "repository": "https://github.com/emilkowalski/skills",
+  "license": "MIT",
+  "keywords": ["design", "animation", "ui", "motion"]
+}
